@@ -1,8 +1,15 @@
 ---
+# awards
 # the default layout is 'page'
-icon: fas fa-info-circle
+# icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<ul>
+	<li>CUHK Faculty of Engineering, Admission Scholarship</li>
+	<li>CUHK Faculty of Engineering, Dean’s List</li>
+	<li>CUHK Faculty of Engineering, ELITE Stream Scholarship</li>
+	<li>Shaw College, Certificate of Academic Merit</li>
+	<li>Shaw College, Exchange Scholarship</li>
+	<li>Shaw College, Head's List</li>
+</ul>
