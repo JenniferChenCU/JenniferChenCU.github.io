@@ -43,10 +43,6 @@ layout: page
   <!-- <div class="overlay"></div> -->
 
   <div class="post-preview">
-    <!-- <h1>
-      <span style="font-family: 'Pacifico', cursive">I'm Wen</span>
-      <p style="font-family:'Times New Roman'; font-size: 17px;"><i>"The best preparation for tomorrow is doing your best today."<i></p>
-    </h1> -->
 
     <div class="post-content">
       <p>
@@ -59,8 +55,13 @@ layout: page
       <div class="mr-auto">
 
         <!-- posted date -->
-        <i class="far fa-calendar fa-fw"></i>
-        {% include datetime.html date=post.date %}
+       <!--  <i class="far fa-calendar fa-fw"></i>
+        {% include datetime.html date=post.date %} -->
+
+        <h1>
+        <span style="font-family: 'Pacifico', cursive">I'm Wen</span>
+        <p style="font-family:'Times New Roman'; font-size: 17px;"><i>"The best preparation for tomorrow is doing your best today."<i></p>
+        </h1>
 
         <!-- categories -->
         {% if post.categories.size > 0 %}
