@@ -2,7 +2,7 @@
 # university part
 # layout: archives
 # icon: fas fa-university
-order: 3
+order: 2
 ---
 
 <ul>
