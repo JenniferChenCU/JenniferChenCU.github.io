@@ -1,6 +1,6 @@
 ---
 # layout: archives
-# icon: fa fa-university
+icon: fas fa-university
 order: 3
 ---
 
