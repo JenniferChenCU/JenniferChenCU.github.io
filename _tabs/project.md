@@ -12,7 +12,7 @@ order: 4
   <ul><li>Written unit tests with JUnit and Mockito, tested functionalities with Postman by calling RESTful endpoints.</li></ul>
   <p></p>
 
-  <li><p style="text-align:left;"><b><a href="">SaaS project - Recipe Generator</a></b><span style="float:right;">Jan 2023 - Apr 2023</span></p></li>
+  <li><p style="text-align:left;"><b><a href="">SaaS project - Recipe Generator</a></b><span style="float:right;">Sep 2022 - Dec 2022</span></p></li>
   <ul><li>Designed and built a SaaS product using Ruby On Rails and deploy the application to production environment using Heroku.</li></ul>
   <ul><li>Configured PostgreSQL on AWS RDS, implemented front-end views with HTML, CSS and ERB to present data to users.</li></ul>
   <ul><li>Developed a ranking algorithm, utilized Spoonacular API to to generate recipe recommendations according to user preferences.</li></ul>
